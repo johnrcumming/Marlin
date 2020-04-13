@@ -779,7 +779,7 @@
  */
 #define X_PROBE_OFFSET_FROM_EXTRUDER -28 //10  // X offset: -left  +right  [of the nozzle]
 #define Y_PROBE_OFFSET_FROM_EXTRUDER -9   //10  // Y offset: -front +behind [the nozzle]
-#define Z_PROBE_OFFSET_FROM_EXTRUDER -1.6  // Z offset: -below +above  [the nozzle] (old value -1.9)
+#define Z_PROBE_OFFSET_FROM_EXTRUDER -1.9  // Z offset: -below +above  [the nozzle] (old value -1.9) -1.6
 #define MIN_PROBE_EDGE 10
 
 
